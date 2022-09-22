@@ -1,0 +1,7 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 8298-9CC0
+C:.
+ÀÄÄÄProyecto
+    ÃÄÄÄPuntodos
+    ÃÄÄÄPuntotres
+    ÀÄÄÄPuntouno
